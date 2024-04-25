@@ -13,6 +13,7 @@ public class main {
         anywareTank.printPosition();
         customTank.goForward(201);
         customTank.printPosition();
+        System.out.println();
 
 
     }
