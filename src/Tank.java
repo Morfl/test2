@@ -1,5 +1,5 @@
 public class Tank {
-
+int u;
     private int x;
     private int y;
     private int povorot = 0;
